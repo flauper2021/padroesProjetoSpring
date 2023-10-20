@@ -1,0 +1,16 @@
+# EXPORANDO PADRÕES COM JAVA PURO
+  -Singleton;
+  -Strategy;
+  -Facade.
+
+# EXPLORANDO PADRÕES DE PROJENTO COM SPRING
+  -Singleton: @Bean e @Autowired;
+  -Strategy: @Service e @Repositry;
+  -Facade: abstraindo a complexidade atraves de API REST das seguintes interações:
+    -Spring DataJPA;
+    -ViaCep(Feign).
+
+*Obs: foi usado com BD o H2 DataBase.
+
+projeto realizado durante a Aula de desafio do BootCamp Dio-Santander
+professor Sr. Venilton Falvo Jr.
